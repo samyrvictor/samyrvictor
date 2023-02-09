@@ -7,6 +7,8 @@
 - 🌱 Tenho desenvolvido cada vez mais skills em HTML, CSS, JS, Bootstrap, React.  
 - ⚡ Me divirto realizando cursos e participando de projeto na área.
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyrvictor&layout=compact&langs_count=16&theme=dracula" />
+
 <div>
   <a href="mailto:samyr.midia1234@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -14,3 +16,4 @@
   <a href="https://www.linkedin.com/in/samyr-victor-dev/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
