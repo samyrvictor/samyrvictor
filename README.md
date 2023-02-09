@@ -7,7 +7,7 @@
 - 🌱 Tenho desenvolvido cada vez mais skills em HTML, CSS, JS, Bootstrap, React.  
 - ⚡ Me divirto realizando cursos e participando de projeto na área.
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samyrvictor&layout=compact&langs_count=16&theme=dracula" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
 
 <div>
   <a href="mailto:samyr.midia1234@gmail.com" >
